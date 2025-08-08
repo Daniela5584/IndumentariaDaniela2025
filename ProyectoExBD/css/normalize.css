@@ -7,33 +7,30 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family:'Poppins' , sans-serif;
-
+    font-family: 'Poppins', sans-serif;
 }
+
 :root{
-    --back-color: #533F3F ;
-    --back-color1: #f6e9f3;
-
-    --main-color1:#214151 ;
-    --main-color2:#21555e ;
-    --main-color3:#2f767a ;
-    --main-color4:#51a7a2 ;
-    --main-color5:#8ae8d9;
-
+    --back-color: #533F3F;
+    --back-color2: #F1F1F1;
+    
+    --main-color1: #000008;
+    --main-color2: #1a313e;
+    --main-color3: #3b657c;
+    --main-color4: #61a4c5;
+    --main-color5: #8cebff;
+    
     --ok-color: #008000;
     --ok-color2: #74c476;
-
-    --edit-color: #e36441;
-    --edit-color2: #faa308;
-
+    
+    --edit-color: #E36414;
+    --edit-color2: #faa307;
+    
     --del-color: #d10000;
-    --del-color2:#EB1313 ;
+    --del-color2: #EB1313;
     
     --text-color: #ededed;
-    --text-color2: #333; 
+    --text-color2: #333;
     
     font-size: 15px;
-
-
-
 }
